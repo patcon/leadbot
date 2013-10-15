@@ -25,7 +25,8 @@
 
   "dependencies": {
     "hubot":         ">= 2.6.0 < 3.0.0",
-    "hubot-scripts": ">= 2.5.0 < 3.0.0"
+    "hubot-scripts": ">= 2.5.0 < 3.0.0",
+    "hubot-slack": "https://github.com/tinyspeck/hubot-slack/archive/9059e326d8f08abf1725e534b30f98af58c00ba6.tar.gz"
   },
 
   "engines": {
